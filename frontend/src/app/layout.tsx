@@ -32,9 +32,11 @@ export const metadata: Metadata = {
     "Medical AI",
   ],
   authors: [{ name: "X-RAY SQUARED — Academic Project" }],
-  icons: {
-    icon: "/logo.svg",
-  },
+   icons: {
+  icon: "/favicon.svg",
+  shortcut: "/favicon.svg",
+  apple: "/favicon.svg",
+},
   openGraph: {
     title: "X-RAY SQUARED",
     description: "Smarter X-Rays. Clearer AI Insights.",
